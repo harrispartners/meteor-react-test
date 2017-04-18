@@ -1,0 +1,47 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`provides book ID when clicked 1`] = `
+<div
+  className="root-0-0"
+  onClick={[Function]}
+>
+  <div>
+    <div
+      className="root-0-2"
+      style={
+        Object {
+          "height": 187,
+          "width": 128,
+        }
+      }
+    >
+      <img
+        className="image-0-5"
+        height={187}
+        src="http://placehold.it/128x187"
+        title="Not a real book"
+        width={128}
+      />
+      <div
+        className="reflection-0-6"
+      >
+        <img
+          className="flippedImage-0-3"
+          height={187}
+          src="http://placehold.it/128x187"
+          width={128}
+        />
+        <div
+          className="reflectionOverlay-0-8"
+          style={
+            Object {
+              "height": 187,
+              "width": 128,
+            }
+          }
+        />
+      </div>
+    </div>
+  </div>
+</div>
+`;
